@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "9983d54227e10d51c4fefdd824534aeacdc6455588151ad04f7853775e91daab"
+            "sha256": "ba96f0bdc54418df6043a63e326663213f8d2d60606113f98a9fe5c33e0be0e8"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -15,7 +15,8 @@
             }
         ]
     },
-    "default": {
+    "default": {},
+    "develop": {
         "bleach": {
             "hashes": [
                 "sha256:1a1a85c1595e07d8db14c5f09f09e6433502c51c595970edc090551f0db99414",
@@ -429,6 +430,5 @@
             "markers": "python_version >= '3.7'",
             "version": "==3.13.0"
         }
-    },
-    "develop": {}
+    }
 }
