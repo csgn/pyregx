@@ -1,1 +1,1 @@
-# pyrex
+# pyregx
